@@ -1,0 +1,14 @@
+# .vscode/*
+
+node_modules/
+package-lock.json
+
+*.log
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-error.log*
+
+coverage/
+dist/
+build/

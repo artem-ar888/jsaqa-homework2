@@ -1,0 +1,14 @@
+**/.git
+**/.svn
+**/node_modules
+
+/tmp
+/cache
+
+/dist
+/build
+/public
+
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
